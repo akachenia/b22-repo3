@@ -19,3 +19,5 @@ How to save after adding some text in sublime
 On mac Command + S
 On Windows Control + S
 Or click on file --> save
+
+We do not hve to push one comit at a time
